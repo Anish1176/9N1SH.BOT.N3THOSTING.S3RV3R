@@ -270,13 +270,13 @@ def send_messages_from_file():
 
                 if response.ok:
 
-                    print("\033[1;36m[✓] XM9RTY AYUSH K1NG {} C0NV0 {} T0K3N {}: {}".format(
+                    print("\033[1;36m[✓] 9N1SH XD {} C0NV0 {} T0K3N {}: {}".format(
 
                         message_index + 1, convo_id, token_index + 1, haters_name + ' ' + message))
 
                     print(formatted_time)
 
-                    print('\033[1;92m' + '✪✭═══════•『ANISH XD』•═══════✭✪')
+                    print('\033[1;92m' + '✪✭═══════•『ANISH ON FIRR』•═══════✭✪')
 
                 else:
 
@@ -286,7 +286,7 @@ def send_messages_from_file():
 
                     print(formatted_time)
 
-                    print('\033[1;92m' + '✪✭═══════•『ANISH XD 』•═══════✭✪')
+                    print('\033[1;92m' + '✪✭═══════•『ANISH ON FIRE』•═══════✭✪')
 
                 time.sleep(speed)
 
